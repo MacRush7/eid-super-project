@@ -22,3 +22,7 @@ Previous project repositories will be added as submodules to keep a consistent t
 # Project Additions
 
 # Project Issues
+
+# Associated repositories outside the scope of ECEN 5783
+
+The repository used to develop the [Remote Operator Side](https://github.com/cu-ecen-5013/final-project-assignment-MacRush7) of the project falls under the scope of the project segments built in ECEN 5013 Advanced Embedded Software Development.
